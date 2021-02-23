@@ -38,8 +38,6 @@ Step 6: Do the same for Rotartional Speed, Welding Speed, and Axial Force.
 
 Step 7: Visualize a heatmap for all the properties of the tools and a bar plot for the no. of experiments conducted
 
-**Results**
-
 **Task 2: Create an Artificial Neural Network model to predict Corrosion resistance.**
 
 Step 1: Import required libraries
